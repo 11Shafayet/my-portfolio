@@ -11,6 +11,7 @@ import aicreativebytes from '../assets/aicreativebytes-cropped.png';
 import quantumLearn from '../assets/quantum-learning.png';
 import srGymApp from '../assets/sr-gym-app.png';
 import gulfAuction from '../assets/gulf-auction.png';
+import snapJobs from '../assets/snapjobs.png';
 
 export const socialData = [
   {
@@ -152,8 +153,8 @@ export const workCategories = [
     category: 'bootstrap',
   },
   {
-    text: 'Material UI',
-    category: 'material',
+    text: 'Chakra UI',
+    category: 'chakra',
   },
   {
     text: 'Wordpress',
@@ -185,6 +186,14 @@ export const portfolioWorks = [
     title: 'Car Auction Website',
     desc: 'Car Auction Website',
     category: ['figma', 'react', 'next', 'tailwind'],
+  },
+  {
+    src: snapJobs,
+    alt: 'Snap Jobs',
+    link: 'https://snapjobs.netlify.app/',
+    title: 'Job Finding Website',
+    desc: 'Looking for a job? Perfect Place!',
+    category: ['figma', 'react', 'chakra', 'next'],
   },
   {
     src: carRental,

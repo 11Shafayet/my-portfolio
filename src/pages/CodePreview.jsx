@@ -5,6 +5,7 @@ import easyFrontend from '../assets/ezy-croped.png';
 import quantumLearn from '../assets/quantum-learning.png';
 import srGypApp from '../assets/sr-gym-app.png';
 import gulfAuction from '../assets/gulf-auction.png';
+import snapJobs from '../assets/snapjobs.png';
 
 // declared all the tailwind classes so that the load on initiallization and can be used dynamically
 let colours =
@@ -28,6 +29,15 @@ const codePreviewProjects = [
     tags: ['React JS', 'Next JS', 'Tailwind CSS', 'Figma'],
     liveLink: 'https://www.gulfauctions.online/',
     codeLink: 'https://github.com/11Shafayet/gulf-next',
+  },
+  {
+    color: 'sky',
+    img: snapJobs,
+    title: 'Job Finding App',
+    desc: 'A Job finding Website build With React JS. For styling I used Chakra UI framework in this project.',
+    tags: ['React JS', 'Chakra UI', 'Figma'],
+    liveLink: 'https://snapjobs.netlify.app/',
+    codeLink: 'https://github.com/11Shafayet/snapjobs',
   },
   {
     color: 'pink',

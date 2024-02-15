@@ -6,8 +6,6 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
   const { pathname } = useLocation();
 
-  console.log(pathname);
-
   return (
     <>
       {/* desktop navigation */}

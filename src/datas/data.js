@@ -1,17 +1,17 @@
-import easyfrontend from '../assets/ezy-croped.png';
-import webwizard from '../assets/webwizardsmedia-croped.png';
-import carRental from '../assets/car-rental-cropped.png';
-import sallonOne from '../assets/sallon-one-croped.png';
-import mindFulBlog from '../assets/blog-one-croped.png';
-import agencyOne from '../assets/agency-one-croped.png';
-import nazalBd from '../assets/nazalbd-cropped.png';
-import ibcll from '../assets/ibcll-cropped.png';
-import dbc from '../assets/dynamicbusinessconsultancy-cropped.png';
-import aicreativebytes from '../assets/aicreativebytes-cropped.png';
-import quantumLearn from '../assets/quantum-learning.png';
-import srGymApp from '../assets/sr-gym-app.png';
-import gulfAuction from '../assets/gulf-auction.png';
-import snapJobs from '../assets/snapjobs.png';
+import easyfrontend from '/assets/ezy-croped.png';
+import webwizard from '/assets/webwizardsmedia-croped.png';
+import carRental from '/assets/car-rental-cropped.png';
+import sallonOne from '/assets/sallon-one-croped.png';
+import mindFulBlog from '/assets/blog-one-croped.png';
+import agencyOne from '/assets/agency-one-croped.png';
+import nazalBd from '/assets/nazalbd-cropped.png';
+import ibcll from '/assets/ibcll-cropped.png';
+import dbc from '/assets/dynamicbusinessconsultancy-cropped.png';
+import aicreativebytes from '/assets/aicreativebytes-cropped.png';
+import quantumLearn from '/assets/quantum-learning.png';
+import srGymApp from '/assets/sr-gym-app.png';
+import gulfAuction from '/assets/gulf-auction.png';
+import snapJobs from '/assets/snapjobs.png';
 
 export const socialData = [
   {

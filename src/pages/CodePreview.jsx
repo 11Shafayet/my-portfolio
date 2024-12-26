@@ -1,11 +1,11 @@
 /* eslint-disable react/prop-types */
 import { Link } from 'react-router-dom';
-import carRental from '../assets/car-rental-cropped.png';
-import easyFrontend from '../assets/ezy-croped.png';
-import quantumLearn from '../assets/quantum-learning.png';
-import srGypApp from '../assets/sr-gym-app.png';
-import gulfAuction from '../assets/gulf-auction.png';
-import snapJobs from '../assets/snapjobs.png';
+import carRental from '/assets/car-rental-cropped.png';
+import easyFrontend from '/assets/ezy-croped.png';
+import quantumLearn from '/assets/quantum-learning.png';
+import srGypApp from '/assets/sr-gym-app.png';
+import gulfAuction from '/assets/gulf-auction.png';
+import snapJobs from '/assets/snapjobs.png';
 
 // declared all the tailwind classes so that the load on initiallization and can be used dynamically
 let colours =
